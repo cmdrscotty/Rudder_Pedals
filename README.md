@@ -3,9 +3,9 @@
 STL files are placed in the STL folder subfoldered into how many of each needs to be printed of each file.
 
 Credited to the following Thingiverse uploads:
-https://www.thingiverse.com/thing:6976619
-https://www.thingiverse.com/thing:7283101
-https://www.thingiverse.com/thing:7422177
+* https://www.thingiverse.com/thing:6976619
+* https://www.thingiverse.com/thing:7283101
+* https://www.thingiverse.com/thing:7422177
 
 There are different versions of the pedals based on your comfort needs (18 degree tilt, 12 degree tilt, and 8 degree tilt)
 

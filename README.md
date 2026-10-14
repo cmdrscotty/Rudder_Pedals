@@ -12,6 +12,7 @@ There are different versions of the pedals based on your comfort needs (18 degre
 ## Config files
 
 MW5_2.xml is for Joystick Gremlin to use with vjoy (You can ignore the definition for SaiTek x45 if you are using a different HOTAS)
+
 HOTASMappings.Remap is for MW5 and goes in %localappdata%\MW5Mercs\Saved\SavedHOTAS
 
 ## Helpful tips

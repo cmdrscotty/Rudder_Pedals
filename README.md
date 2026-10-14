@@ -1,3 +1,16 @@
+## Files to print
+
+Print all files from this: https://www.thingiverse.com/thing:6976619/remixes
+* exceptions:
+* Do not print the pedals, rear mount or tension arm
+
+Print all files from: https://www.thingiverse.com/thing:7283101
+
+Print pedals, sensor mounts, magnet mount, and limit stops from: https://www.thingiverse.com/thing:7422177
+* There are different varients of the pedals based on your comfort (18, 12, 8 degree tilts)
+
+
+
 ## License
 
 [![License: CC BY-NC-SA 4.0](https://shields.io)](https://creativecommons.org)

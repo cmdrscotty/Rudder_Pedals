@@ -25,6 +25,29 @@ M4 inserts are used everywhere else.
 
 For setting the heatset inserts, use a soldering iron with an adjustable temperature and set it to 500F. This will heat the brass up enough to slowly melt it into the plastic but not so hot it liquefies the material.
 
+Before gluing in the magnets with hot glue (so they don't fall out) check the magnetic polarity to ensure the sensors behave correctly
+
+## Wiring
+
+The 49E Hall Effect Sensor only uses three pins.
+
+With the label facing you the pins are left-right:
+1. 5v
+2. GND
+3. Signal
+
+with no magnet near it'll read roughly 2.5v
+South will bring the voltage to 5v
+North will bring the voltage to 0v
+
+For wiring to the Arduino, wire pin 1 of all sensors to 5v, pin 2 to GND, then pin three to each respective pin:
+
+A0 Rudder Yaw (sensor below the Arduino)
+A1 Left Toe Sensor
+A2 Right Toe Sensor
+
+
+
 ## License
 
 [![License: CC BY-NC-SA 4.0](https://shields.io)](https://creativecommons.org)

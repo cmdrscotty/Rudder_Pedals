@@ -1,13 +1,18 @@
 ## Files to print
 
-Print all files from this: https://www.thingiverse.com/thing:6976619/remixes
-* exceptions:
-* Do not print the pedals, rear mount or tension arm
+STL files are placed in the STL folder subfoldered into how many of each needs to be printed of each file.
 
-Print all files from: https://www.thingiverse.com/thing:7283101
+Credited to the following Thingiverse uploads:
+https://www.thingiverse.com/thing:6976619
+https://www.thingiverse.com/thing:7283101
+https://www.thingiverse.com/thing:7422177
 
-Print pedals, sensor mounts, magnet mount, and limit stops from: https://www.thingiverse.com/thing:7422177
-* There are different variants of the pedals based on your comfort (18, 12, 8 degree tilts)
+There are different versions of the pedals based on your comfort needs (18 degree tilt, 12 degree tilt, and 8 degree tilt)
+
+## Config files
+
+MW5_2.xml is for Joystick Gremlin to use with vjoy (You can ignore the definition for SaiTek x45 if you are using a different HOTAS)
+HOTASMappings.Remap is for MW5 and goes in %localappdata%\MW5Mercs\Saved\SavedHOTAS
 
 ## Helpful tips
 
@@ -46,7 +51,7 @@ A0 Rudder Yaw (sensor below the Arduino)
 A1 Left Toe Sensor
 A2 Right Toe Sensor
 
-
+Use Joystick Gremlin to further dial in the calibration. Base calibration from 
 
 ## License
 
